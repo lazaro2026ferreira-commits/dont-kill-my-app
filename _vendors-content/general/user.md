@@ -1,4 +1,4 @@
----
+starter---
 manufacturer:
     - general
 ---
